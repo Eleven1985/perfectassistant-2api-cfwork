@@ -54,7 +54,7 @@
 
 ### 🎯 懒人一键部署（30秒搞定！）
 
-[![部署到 Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lza6/perfectassistant-2api-cfwork)
+[![部署到 Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Eleven1985/perfectassistant-2api-cfwork)
 
 1. **点击上面按钮** 🔼
 2. **登录 Cloudflare 账号** 🔑
